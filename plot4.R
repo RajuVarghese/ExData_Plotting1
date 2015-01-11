@@ -1,4 +1,4 @@
-# plot3.R: plot the 4 specified sub plots in one file
+# plot4.R: plot the 4 specified sub plots in one file
 # Project #1 of Coursera Data Science 4: Exploratory Data Analysis
 # 
 filename <- "household_power_consumption.txt"
